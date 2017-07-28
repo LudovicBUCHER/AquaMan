@@ -1,0 +1,42 @@
+body {
+    font-family: 'Open Sans', serif;
+    background-color: #000;
+    margin: 100px;
+	width: 800px;
+}
+
+h1 {
+    font-size: 1.8em;
+    font-weight: bold;
+    color: deepskyblue;
+}
+
+h2 {
+    font-size: 1.3em;
+    font-weight: bold;
+    color: deepskyblue;
+}
+
+.Header {
+	color: white;
+}
+
+.Contenu {
+	color: white;
+}
+
+ul {
+	font-size: 0.8em;
+	color: white;
+
+}
+
+p
+{
+    font-size: 0.8em;
+	color: aliceblue;
+}
+
+a:link, a:visited {
+	color: chartreuse;
+}
